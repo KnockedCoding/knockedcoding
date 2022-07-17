@@ -21,3 +21,4 @@ I really like to programm in my free time and im currently a student in switzerl
 
 ### Programming Langues i use the most
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KnockedCoding)]
+[![My Stats](https://github-readme-stats.vercel.app/api?username=KnockedCoding)]

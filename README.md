@@ -20,4 +20,4 @@ I really like to programm in my free time and im currently a student in switzerl
 - CSS 🎨
 
 ### Programming Langues i use the most
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KnockedCoding)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KnockedCoding)]
